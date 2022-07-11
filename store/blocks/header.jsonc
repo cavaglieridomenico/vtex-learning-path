@@ -24,6 +24,7 @@
     },
     "children": [
       "flex-layout.col#logo-desktop",
+
       "flex-layout.col#spacer",
       "search-bar",
       "locale-switcher",
@@ -32,8 +33,10 @@
     ]
   },
   "flex-layout.col#spacer": {
+    "children": ["modal-trigger#first"],
     "props": {
-      "width": "grow"
+      "width": "grow",
+      "verticalAlign": "middle"
     }
   },
   "flex-layout.col#logo-desktop": {
