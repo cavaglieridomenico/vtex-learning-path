@@ -10,7 +10,8 @@
       "slider-layout#home",
       "responsive-layout.desktop#desktop",
       "responsive-layout.mobile#mobile",
-      "tab-layout#home"
+      "tab-layout#home",
+      "stack-layout#cta"
     ]
   },
 
