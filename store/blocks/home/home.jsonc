@@ -1,6 +1,7 @@
 {
   "store.home": {
     "blocks": [
+      "list-context.product-list",
       "rich-text",
       "rich-text#second",
       "info-card",
